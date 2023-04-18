@@ -1,5 +1,5 @@
 Projeto com README
-Um projeto de teste com um arquivo README 🤖🐱‍👤
+É apenas um teste de como fazer um README🤖🐱‍👤
 
 [<img src="./tela.gif" alt="gif da tela incicial do projeto">](https://google.com)
 
